@@ -1,4 +1,4 @@
-Here is the complete `README.md` file. You can copy the content inside this block and paste it directly into a new file named `README.md` in your project folder.
+
 
 ```markdown
 # 🌤️ Python CLI Weather App

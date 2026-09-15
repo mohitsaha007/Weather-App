@@ -1,5 +1,5 @@
 import sys
-from weather_api import WeatherAPIClient
+from weatherAPI import WeatherAPIClient
 
 class CLIInterface:
     
